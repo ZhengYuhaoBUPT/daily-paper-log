@@ -2,12 +2,13 @@
 
 I challenge myself to read **10 papers a day**.
 
-| Date       | Summary                                       |
-|------------|-----------------------------------------------|
-| 2025-07-11 | [10 papers on satellite RL](logs/2025-07-11.md) |
-| 2025-07-12 | [Caching & routing papers](logs/2025-07-12.md) |
+| Date       | Research Topics                     | Summary                                       |
+|------------|--------------------------------------|-----------------------------------------------|
+| 2025-07-11 | Satellite Blockchain                 | [4 papers](Satellite/Blockchain/2025-07-11.md)|
 
-Research Topics:
+Research Topics (Keyword Pool):
 - 🚀 Satellite Networking
 - 🧠 Reinforcement Learning
 - 🔐 Secure Edge AI
+- 🛰️ Federated Learning in Space
+- 📡 Blockchain for LEO/MEC
