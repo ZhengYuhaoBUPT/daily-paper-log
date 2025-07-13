@@ -6,6 +6,7 @@ I challenge myself to read **10 papers a day**.
 |-----------------------|--------------------------------------|-----------------------------------------------|
 | Satellite Blockchain  |   2025-07-11                         | [4 papers](Satellite/Blockchain/2025-07-11.md)|
 | Cloud Computing       |   2025-07-12                         | [2 papers](Cloud-Computing/Security/2025-07-12.md)|
+| Blockchain            |   2025-07-13                         | [5 papers](Security/Blockchain/2025-07-13.md)|
 
 Research Topics (Keyword Pool):
 - 🚀 Satellite Networking
