@@ -1,7 +1,5 @@
 # 📚 Daily Paper Reading Log
 
-I challenge myself to read **10 papers a day**.
-
 | Research Topics       | Date                                                     |
 |-----------------------|----------------------------------------------------------|
 | Satellite Blockchain  |   [2025-07-11](Satellite/Blockchain/2025-07-11.md), [2025-07-16](Satellite/Blockchain/2025-07-16.md) , [2025-07-17](Satellite/Blockchain/2025-07-17.md)      |
