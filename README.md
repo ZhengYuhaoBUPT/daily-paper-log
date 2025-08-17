@@ -6,7 +6,7 @@
 | Cloud Computing       |   [2025-07-12](Cloud-Computing/Security/2025-07-12.md)   |                     
 | Blockchain            |   [2025-07-13](Security/Blockchain/2025-07-13.md)        |                    
 | Edge-AI               |   [2025-07-14](Edge-AI/Computing/2025-07-14.md)          |                  
-| LLM                   |   [2025-07-15](Edge-AI/LLM/2025-07-15.md)                |             
+| LLM                   |   [2025-07-15](Edge-AI/LLM/2025-07-15.md), [2025-08-17](Edge-AI/LLM/2025-08-17.md)                |             
 
 
 Research Topics (Keyword Pool):
