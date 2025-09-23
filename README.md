@@ -17,5 +17,13 @@ Research Topics (Keyword Pool):
 - 🛰️ Federated Learning in Space
 - 📡 Blockchain for LEO/MEC
 
+## IEEE INFOCOM 2025 
+
+| Research Topics       | Date                                                     |
+|-----------------------|----------------------------------------------------------|
+| Federated Learning  |   [2025-09-24](INFOCOM/2025/FL.md)      |
+
+---
+
 Update Time:  
-2025.09.15
+2025.09.24
