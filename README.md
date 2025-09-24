@@ -21,9 +21,9 @@ Research Topics (Keyword Pool):
 
 | Research Topics       | Date                                                     |
 |-----------------------|----------------------------------------------------------|
-| Federated Learning  |   [2025-09-24](INFOCOM/2025/FL.md)      |
+| Federated Learning  |   [2025-FL](INFOCOM/2025/FL.md)      |
 
 ---
 
 Update Time:  
-2025.09.24
+2025.09.25
